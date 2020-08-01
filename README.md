@@ -4,7 +4,7 @@ A list of cool WordPress resources for developers
 
 ## Table Of Contents
 
-- [Background Processes / Tasks](#background-processes---tasks)
+- [Background Processes / Tasks](#background-processes--tasks)
 
 
 ## Background Processes / Tasks
