@@ -48,3 +48,4 @@ A list of cool WordPress resources for developers
 * Cavalcade, a better wp-cron: https://github.com/humanmade/Cavalcade
 * Action scheduler: https://github.com/woocommerce/action-scheduler
 * WP_Lock: https://github.com/soulseekah/wp-lock
+* https://github.com/micropackage/requirements
