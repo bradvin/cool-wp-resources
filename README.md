@@ -49,3 +49,4 @@ A list of cool WordPress resources for developers
 * Action scheduler: https://github.com/woocommerce/action-scheduler
 * WP_Lock: https://github.com/soulseekah/wp-lock
 * https://github.com/micropackage/requirements
+* https://github.com/johnbillion/extended-cpts
