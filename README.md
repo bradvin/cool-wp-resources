@@ -50,3 +50,5 @@ A list of cool WordPress resources for developers
 * WP_Lock: https://github.com/soulseekah/wp-lock
 * https://github.com/micropackage/requirements
 * https://github.com/johnbillion/extended-cpts
+* https://github.com/Seravo/wp-custom-bulk-actions
+* https://github.com/stevegrunwell/wp-cache-remember
