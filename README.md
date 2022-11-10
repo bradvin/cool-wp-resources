@@ -17,7 +17,7 @@ A list of cool WordPress resources for developers
 
 ## Still To Sort
 
-
+* wp-config constants https://gist.github.com/MikeNGarrett/e20d77ca8ba4ae62adf5
 * Make Wordpress Core Handbook http://make.wordpress.org/core/handbook/
 * Plugin Developer Handbook http://make.wordpress.org/docs/plugin-developer-handbook/
 * Theme Developer Handbook https://make.wordpress.org/docs/theme-developer-handbook/
